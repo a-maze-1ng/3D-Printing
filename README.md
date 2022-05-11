@@ -1,5 +1,7 @@
 # 3D-Printing  
 ## Perimeters  
+--> optimal hights / for CAD Models  
+
 1 --> 0.76 mm  
 2 --> 1.51 mm  
 3 --> 2.23 mm  
