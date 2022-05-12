@@ -1,5 +1,5 @@
 SET_FILAMENT_SENSOR SENSOR=btt_sensor ENABLE=0 ; deactivate btt smart filament sensor
-M109 S200 ; set hotend to 200C
+M109 S210 ; set hotend to 210C
 G91 ; use relative coordinates
 M83 ; use relative distances for extrusion
 G1 E-5 F3600 ; extract filament to cold end area 
