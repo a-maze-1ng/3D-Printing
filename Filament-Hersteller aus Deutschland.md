@@ -12,7 +12,7 @@ Ampertec|https://www.filamentpreis.de/shop/|ABS|Schwarz|+- 0,04|40,31|1,0|82140 
 Filamentworld|https://www.filamentworld.de|ABS|Schwarz|+- 0,05|24,90|1,0|89231 Neu-Ulm |
 Owl-filament|https://owl-filament.de/|ABS|?|??|17,90|1,0|33442 Herzebrock Clarholz|
 Olympfila|https://www.olympfila.de|ABS (+)|schwarz|+- 0,05|34,22|0,75|73066 Uhingen|
-CR3D|https://www.cr3d.de|ABS|schwarz|??|29,90|1,0|93413 Cham|
+CR3D|https://www.cr3d.de|ABS|schwarz|+- 0,05|29,90|1,0|93413 Cham|
 
 ### Überblick: PLA, 1,75 mm Filamente
 Hersteller|Website|Material|Farbe|Durchmesser-Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
