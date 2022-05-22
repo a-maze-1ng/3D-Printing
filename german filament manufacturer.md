@@ -1,26 +1,17 @@
--- no warranty for the correctness of the data and prices, this is just an overview for my personal use!
+-- Keine Gewährleistung auf die Richtigkeit und Vollständigkeit der Angaben!    
+-- Diese Liste soll nur einen groben (unvollständigen) Überblick über einige Filament Hersteller geben.
 
-# Overview - german filament manufacturer (ABS only, 1.75 mm)
-### material4print | https://www.material4print.de | 73066 Uhingen    
-* ABS (black) | 29.27€ / kg | 0.75 kg spool | +- 0.02mm Tolerance   
+# Überblick für ABS, 1,75 mm Filamente
 
-### Kaisertech | https://www.kaisertech.de | 13507 Berlin   
-* ABS (black) | 15.49€ / kg | 1.0 kg spool | +- 0.05mm Tolerance    
-
-### 3dk.berlin | https://3dk.berlin | 12099 Berlin  
-* ABS (black) | 49.88€ / kg | 1.0 kg spool | ?? Tolerance    
-
-### Procatec | https://procatec.de | 58708 Menden   
-* ABS (black) | 21.65€ / kg | 1.0 kg spool | +- 0.05mm Tolerance    
-
-### Ampertec | https://www.filamentpreis.de/shop/ | 82140 Olching   
-* ABS (black) | 40.31€ / kg | 1.0 kg spool | +- 0.04mm Tolerance    
-
-### Filamentworld | https://www.filamentworld.de | 89231 Neu-Ulm    
-* ABS (black) | 24.90€ / kg | 1.0 kg spool | +- 0.05mm Tolerance    
-
-### Owl-filament | owl-filament.de | 33442 Herzebrock Clarholz  
-* ABS (--) | 17,90€ / kg | 1.0 kg spool | ?? Tolerance  
+Hersteller|Website|Material|Farbe|Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
+---|---|---|---|---|---|---|---|---
+Material 4 Print|https://www.material4print.de|ABS|Schwarz|+- 0,02|29,27|0,75|73066 Uhingen|
+Kaisertech|https://www.kaisertech.de|ABS|Schwarz|+- 0,05|15,49|1,0|13507 Berlin  |
+3dk.berlin|https://3dk.berlin|ABS|Schwarz|??|49,88|1,0|12099 Berlin |
+Procatec|https://procatec.de|ABS|Schwarz|+- 0,05|21,65|1,0|58708 Menden|Refill - Rollen
+Ampertec|https://www.filamentpreis.de/shop/|ABS|Schwarz|+- 0,04|40,31|1,0|82140 Olching |
+Filamentworld|https://www.filamentworld.de|ABS|Schwarz|+- 0,05|24,90|1,0|89231 Neu-Ulm |
+Owl-filament|https://owl-filament.de/|ABS|?|??|17,90|1,0|33442 Herzebrock Clarholz|
 
 
 # Overview - german filament manufacturer (PLA only, 1.75 mm)
