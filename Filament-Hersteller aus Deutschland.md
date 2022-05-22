@@ -1,5 +1,5 @@
 -- Keine Gewährleistung auf die Richtigkeit und Vollständigkeit der Angaben!    
--- Diese Liste soll nur einen groben (unvollständigen) Überblick über einige deutscher Filament-Hersteller geben.
+-- Diese Liste soll nur einen groben (unvollständigen) Überblick über einige Filament-Hersteller aus Deutschland geben.
 
 ### Überblick: ABS, 1,75 mm Filamente
 Hersteller|Website|Material|Farbe|Durchmesser-Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
