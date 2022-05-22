@@ -1,9 +1,8 @@
 -- Keine Gewährleistung auf die Richtigkeit und Vollständigkeit der Angaben!    
 -- Diese Liste soll nur einen groben (unvollständigen) Überblick über einige deutscher Filament-Hersteller geben.
 
-### Überblick für ABS, 1,75 mm Filamente
-
-Hersteller|Website|Material|Farbe|Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
+### Überblick: ABS, 1,75 mm Filamente
+Hersteller|Website|Material|Farbe|Durchmesser-Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
 ---|---|---|---|---|---|---|---|---
 Material 4 Print|https://www.material4print.de|ABS|Schwarz|+- 0,02|29,27|0,75|73066 Uhingen|
 Kaisertech|https://www.kaisertech.de|ABS|Schwarz|+- 0,05|15,49|1,0|13507 Berlin  |
@@ -14,11 +13,13 @@ Filamentworld|https://www.filamentworld.de|ABS|Schwarz|+- 0,05|24,90|1,0|89231 N
 Owl-filament|https://owl-filament.de/|ABS|?|??|17,90|1,0|33442 Herzebrock Clarholz|
 
 
-# Overview - german filament manufacturer (PLA only, 1.75 mm)
-### Redline-filament | https://www.redline-filament.com/ | 41469 Neuss
-* 
 
+### Überblick: PLA, 1,75 mm Filamente
+Hersteller|Website|Material|Farbe|Durchmesser-Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
+---|---|---|---|---|---|---|---|---
+Redline-filament|https://www.redline-filament.com/|PLA|Schwarz|+- 0,05|25,99|1,0|41469 Neuss|Karton - Rollen
 
-
-### Dummy | Dummy | Dummy  
-* ABS (black) | Dummy€ / kg | 1.0 kg spool | +- 0.04mm Tolerance  
+### Überblick: Exotische Filamente
+Hersteller|Website
+---|---
+IGUS|https://www.igus.de
