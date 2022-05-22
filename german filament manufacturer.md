@@ -1,4 +1,6 @@
-# Overview - german filament manufacturer		
+-- no warranty for the correctness of the data and prices, this is just an overview for personal use!
+
+# Overview - german filament manufacturer (ABS)		
 ### material4print | https://www.material4print.de | 73066 Uhingen    
 * ABS (black) | 29.27€ / kg | 0.75 kg spool | +- 0.02mm Tolerance		
 
