@@ -8,3 +8,6 @@
 4 --> 2.94 mm  
 5 --> 3.66 mm  
 6 --> 4.37 mm  
+
+## Heat insert for M3
+d --> 4.5 mm
