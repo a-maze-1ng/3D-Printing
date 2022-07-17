@@ -13,3 +13,10 @@ multiple of 0.2 mm (=layer hight)
 
 ## Heat insert for M3
 d --> 4.5 mm
+
+## Font for 3d printing
+Arial rounded -> bold
+
+## Changing colours with paused  
+Pause gcode is applied before the layer starts.  
+Set pause if you see the first layer of the structure
