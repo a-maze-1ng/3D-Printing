@@ -21,3 +21,6 @@ size = 5 mm
 ## Changing colours with M600
 Pause gcode is applied before the layer starts.  
 Set pause if you see the first layer of the structure
+
+## Hole setting
+d_outer_target + 0.3mm = d_outer_CAD
