@@ -17,6 +17,6 @@ d --> 4.5 mm
 ## Font for 3d printing
 Arial rounded -> bold
 
-## Changing colours with paused  
+## Changing colours with M600
 Pause gcode is applied before the layer starts.  
 Set pause if you see the first layer of the structure
