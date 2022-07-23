@@ -1,11 +1,23 @@
 # 3D-Printing  
-## Perimeters  
+## Perimeters PLA
 --> optimal perimeters for vertical shells (x,y)
 
 1 --> 0.80 mm  
 2 --> 1.64 mm  
 3 --> 2.48 mm  
 4 --> 3.32 mm    
+
+--> optimal perimeters for horizontal shells (z)
+
+multiple of 0.2 mm (=layer hight)
+
+## Perimeters ABS
+--> optimal perimeters for vertical shells (x,y)
+
+1 --> 0.76 mm  
+2 --> 1.51 mm  
+3 --> 2.23 mm  
+4 --> 2.94 mm    
 
 --> optimal perimeters for horizontal shells (z)
 
