@@ -24,7 +24,7 @@ multiple of 0.2 mm (=layer hight)
 multiple of 0.2 mm (=layer hight)
 
 ## Heat insert for M3
-d --> 4.5 mm
+d --> 4.5 mm (4.4 mm)
 
 ## Font for 3d printing (Inventor specific)
 Arial Rounded MT Bold
