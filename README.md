@@ -27,7 +27,7 @@ multiple of 0.2 mm (=layer hight)
 d_CAD --> 4.5 mm (4.4 mm)
 
 ## M3 SHCS screw
-d_head --> 5.5 mm
+d_head --> 5.5 mm  
 d_CAD --> 5.5 mm
 
 ## Font for 3d printing (Inventor specific)
