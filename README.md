@@ -24,10 +24,11 @@ multiple of 0.2 mm (=layer hight)
 multiple of 0.2 mm (=layer hight)
 
 ## Heat insert for M3
-d --> 4.5 mm (4.4 mm)
+d_CAD --> 4.5 mm (4.4 mm)
 
 ## M3 SHCS screw
 d_head --> 5.5 mm
+d_CAD --> 5.5 mm
 
 ## Font for 3d printing (Inventor specific)
 Arial Rounded MT Bold
