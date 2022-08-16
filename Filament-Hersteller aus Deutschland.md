@@ -13,7 +13,7 @@ Filamentworld|https://www.filamentworld.de|ABS|Schwarz|+- 0,05|24,90|1,0|89231 N
 Owl-filament|https://owl-filament.de/|ABS|?|??|17,90|1,0|33442 Herzebrock Clarholz|
 Olympfila|https://www.olympfila.de|ABS (+)|schwarz|+- 0,05|34,22|0,75|73066 Uhingen|
 CR3D|https://www.cr3d.de|ABS|schwarz|+- 0,05|29,90|1,0|93413 Cham|
-Eins3D|https://www.eins3d.de|+- 0,05|17,90|1,0|04683  Belgershain|
+Eins3D|https://www.eins3d.de|ABS+|Schwarz|+- 0,05|17,90|1,0|04683  Belgershain|
 
 ### Überblick: PLA, 1,75 mm Filamente
 Hersteller|Website|Material|Farbe|Durchmesser-Toleranz [mm]|Preis [€/kg]|Spulengröße [kg]|Firmensitz|Besonderheiten
