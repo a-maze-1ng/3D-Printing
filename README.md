@@ -29,7 +29,7 @@ l_CAD --> 5.8 mm (3d jake heat inset)
 
 ## M3 SHCS screw
 d_head --> 5.5 mm  
-d_CAD --> 5.5 mm
+l_head --> 3.0 mm  
 
 ## Font for 3d printing (Inventor specific)
 Arial Rounded MT Bold
