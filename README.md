@@ -30,6 +30,10 @@ d_CAD --> 4.5 mm (4.4 mm)
 d_head --> 5.5 mm  
 d_CAD --> 5.5 mm
 
+## M5 Nut
+d_m5_nut = 7.9 mm
+d_m5_nut_CAD = 7.9 mm + 0.3 mm
+
 ## Font for 3d printing (Inventor specific)
 Arial Rounded MT Bold
 size = 5 mm
