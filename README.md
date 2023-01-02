@@ -23,13 +23,13 @@ multiple of 0.2 mm (=layer hight)
 
 multiple of 0.2 mm (=layer hight)
 
-## Heat insert for M3
-d_CAD --> 4.5 mm (4.4 mm)  
-l_CAD --> 5.8 mm (3d jake heat inset)  
+## Heat insert
+d_m3_heat_inset = 4.6  
+d_m3_heat_inset_CAD = 4.6 - 0.2 mm (4.4 mm)  
+l_m3_heat_inset --> 5.7 mm (3d jake heat inset)  
 
-## Heat insert for M3
 d_m4_heat_inset = 6.3  
-d_m4_heat_inset_CAD = 6.3 - 0.2 mm  
+d_m4_heat_inset_CAD = 6.3 - 0.2 mm (6.1 mm)  
 l_m4_heat_inset --> 6.4 mm (3d jake heat inset)  
 
 ## M3 SHCS screw
