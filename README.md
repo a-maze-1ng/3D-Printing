@@ -36,6 +36,11 @@ l_m4_heat_inset --> 6.4 mm (3d jake heat inset)
 d_head --> 5.5 mm  
 l_head --> 3.0 mm  
 
+## M3 Nut
+d_m5_nut = 5.3 mm  
+d_m5_nut_CAD = 5.3 mm + 0.3 mm  
+t_m5_nut = 2.2 mm  
+
 ## M5 Nut
 d_m5_nut = 7.9 mm  
 d_m5_nut_CAD = 7.9 mm + 0.3 mm  
