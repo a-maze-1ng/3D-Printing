@@ -37,9 +37,14 @@ d_head --> 5.5 mm
 l_head --> 3.0 mm  
 
 ## M3 Nut
-d_m5_nut = 5.3 mm  
-d_m5_nut_CAD = 5.3 mm + 0.3 mm  
-t_m5_nut = 2.2 mm  
+d_m3_nut = 5.3 mm  
+d_m3_nut_CAD = 5.3 mm + 0.3 mm  
+t_m3_nut = 2.2 mm  
+
+## M4 Nut
+d_m4_nut = 6.4 mm  
+d_m4_nut_CAD = 6.4 mm + 0.3 mm  
+t_m4_nut = 3.1 mm  
 
 ## M5 Nut
 d_m5_nut = 7.9 mm  
