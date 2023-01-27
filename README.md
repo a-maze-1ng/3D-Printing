@@ -1,3 +1,5 @@
+Wiki - https://github.com/a-maze-1ng/3D-Printing/wiki/Gridfinity
+
 # 3D-Printing  
 ## Perimeters PLA
 --> optimal perimeters for vertical shells (x,y)
