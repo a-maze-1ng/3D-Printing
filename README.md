@@ -38,6 +38,10 @@ l_m4_heat_inset --> 6.4 mm (3d jake heat inset)
 d_head --> 5.5 mm  
 l_head --> 3.0 mm  
 
+## M4 SHCS screw
+d_head --> 6.85 mm  
+l_head --> 3.9 mm 
+
 ## M3 Nut
 d_m3_nut = 5.3 mm  
 d_m3_nut_CAD = 5.3 mm + 0.7 mm  
