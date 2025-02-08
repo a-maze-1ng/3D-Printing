@@ -65,7 +65,7 @@ t_m5_nut_CAD = 3.2 + 0.2 mm
 Arial Rounded MT Bold  
 size = 5 mm  
 
-## Changing colours with "PAUSE" command (Orca Slicer(
+## Changing colours with "PAUSE" command (Orca Slicer)
 Pause gcode is applied before the layer starts.  
 Set pause if you see the first layer of the structure
 
