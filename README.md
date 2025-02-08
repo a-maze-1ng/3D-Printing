@@ -27,7 +27,7 @@ multiple of 0.2 mm (=layer hight)
 
 ## Heat insert
 d_m3_heat_inset = 4.6 mm  
-d_m3_heat_inset_CAD = 4.6 - 0.2 mm (4.4 mm)  
+d_m3_heat_inset_CAD = 4.6 - 0.2 mm (4.4 mm) Stand 08.02.2025: 4.5 mm  
 l_m3_heat_inset --> 5.7 mm (3d jake heat inset)  
 
 d_m4_heat_inset = 6.3 mm  
