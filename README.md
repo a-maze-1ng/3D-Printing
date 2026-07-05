@@ -61,6 +61,10 @@ d_m5_nut_CAD = 7.9 mm + 0.7 mm
 t_m5_nut = 3.2 mm  
 t_m5_nut_CAD = 3.2 + 0.2 mm  
 
+## M4 Spax screw
+d_m4_spax_head = 8.0 mm
+angle = -27°
+
 ## Font for 3d printing (Autodesk Inventor)
 Arial Rounded MT Bold  
 size = 5 mm  
