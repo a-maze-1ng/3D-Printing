@@ -64,6 +64,7 @@ t_m5_nut_CAD = 3.2 + 0.2 mm
 ## M4 Spax screw  
 d_m4_spax_head = 8.0 mm  
 angle = -27°  
+<img width="198" height="186" alt="grafik" src="https://github.com/user-attachments/assets/211aae0a-2ec3-4af2-ab14-7560c4874cfb" />
 
 ## Font for 3d printing (Autodesk Inventor)
 Arial Rounded MT Bold  
